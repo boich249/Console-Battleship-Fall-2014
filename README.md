@@ -1,2 +1,2 @@
-# Console-Battleship-Winter-2014-
+# Console-Battleship-Fall-2014
 Java Console Battleship Game
